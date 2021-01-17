@@ -1,5 +1,5 @@
 ## Код из скринкаста "Разработка аукциона на SlimPHP и ReactJS"   
-[go](https://deworker.pro/edu/series/interactive-site/structure){:target="_blank"}   
+[Скринкаст](https://deworker.pro/edu/series/interactive-site/structure)   
   
   
 ### Содержание  
